@@ -22,7 +22,7 @@ export default [
       const info = {
         author: 'Janaeiw',
         avatar: '/images/avatar.jpg',
-        projectAddress: 'https://github.com/Janaeiw/vue3-vite2-h5-template-sunnie',
+        projectAddress: 'https://github.com/Janaeiw/vue3-vite2-h5-template-s',
       };
       return resultSuccess(info);
     },

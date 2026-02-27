@@ -35,8 +35,8 @@ export const useUserStore = defineStore({
           } else {
             this.setInfo({
               author: 'Janaeiw',
-              avatar: '/vue3-vite2-h5-template-sunnie/images/avatar.jpg',
-              projectAddress: 'https://github.com/Janaeiw/vue3-vite2-h5-template-sunnie',
+              avatar: '/vue3-vite2-h5-template-s/images/avatar.jpg',
+              projectAddress: 'https://github.com/Janaeiw/vue3-vite2-h5-template-s',
             });
           }
           useCookies().set(VITE_TOKEN_KEY as string, result.accessToken || 'shuihaibushigeshuiage');
