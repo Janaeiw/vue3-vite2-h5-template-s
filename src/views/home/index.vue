@@ -1,7 +1,7 @@
 <template>
   <nut-navbar :left-show="false" :title="$t('tabbar.home')" />
   <header class="header">
-    <img src="https://janaeiw.github.io/vue3-vite2-h5-template-s/images/avatar.jpg" /><span> VUE H5开发模板</span>
+    <span> VUE H5开发模板</span>
   </header>
   <p class="intro-header">
     {{ $t('introduction') }}
