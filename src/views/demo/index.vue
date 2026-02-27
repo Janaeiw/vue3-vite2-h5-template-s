@@ -3,7 +3,7 @@
  * @Date: 2022/07/05 14:04
  * @LastEditTime: 2022/07/05 15:02
  * @LastEditors: ZhongJunWei
- * @FilePath: \vue3-vite2-h5-template-sunnie\src\views\demo\index.vue
+ * @FilePath: \vue3-vite2-h5-template-s\src\views\demo\index.vue
  * @Description: ''
 -->
 <template>

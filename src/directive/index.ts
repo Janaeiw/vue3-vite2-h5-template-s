@@ -3,7 +3,7 @@
  * @Date: 2022/07/05 14:44
  * @LastEditTime: 2022/07/05 15:07
  * @LastEditors: ZhongJunWei
- * @FilePath: \vue3-vite2-h5-template-sunnie\src\directive\index.ts
+ * @FilePath: \vue3-vite2-h5-template-s\src\directive\index.ts
  * @Description: '自定义指令'
  */
 

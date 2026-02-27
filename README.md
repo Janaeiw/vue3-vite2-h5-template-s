@@ -16,7 +16,7 @@
 
 git clone
 
-cd vue3-vite2-h5-template-sunnie
+cd vue3-vite2-h5-template-s
 
 npm install
 

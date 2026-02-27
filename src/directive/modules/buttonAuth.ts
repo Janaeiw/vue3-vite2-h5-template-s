@@ -3,7 +3,7 @@
  * @Date: 2022/07/05 14:44
  * @LastEditTime: 2022/07/05 14:46
  * @LastEditors: ZhongJunWei
- * @FilePath: \vue3-vite2-h5-template-sunnie\src\directive\modules\buttonAuth.ts
+ * @FilePath: \vue3-vite2-h5-template-s\src\directive\modules\buttonAuth.ts
  * @Description: '自定义指令-按钮权限'
  */
 

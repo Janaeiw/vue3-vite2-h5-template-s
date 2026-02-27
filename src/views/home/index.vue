@@ -3,7 +3,7 @@
   <header class="header"> <img src="https://www.sunniejs.cn/static/weapp/logo.png" /><span> VUE H5开发模板</span> </header>
   <p class="intro-header">
     {{ $t('introduction') }}
-    <a href="https://github.com/zhongjunwei/vue3-vite2-h5-template-sunnie">
+    <a href="https://github.com/zhongjunwei/vue3-vite2-h5-template-s">
       <nut-icon class="github-icon" name="github" />
     </a>
   </p>
