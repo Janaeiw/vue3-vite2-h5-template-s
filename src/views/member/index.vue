@@ -10,7 +10,9 @@
       <p class="info"> 个人其他信息，后续补充.... </p>
     </div>
   </div>
-  <p v-if="userStore.info.projectAddress" class="href">项目地址: {{ userStore.info.projectAddress }}</p>
+  <p v-if="userStore.info.projectAddress" class="href"
+    >项目地址: <a :href="userStore.info.projectAddress" target="_blank">{{ userStore.info.projectAddress }}</a></p
+  >
   <nut-grid>
     <nut-grid-item icon="dongdong" text="文字" />
     <nut-grid-item icon="dongdong" text="文字" />
@@ -52,5 +54,8 @@
   .href {
     margin: 20px;
     color: #1989fa;
+    a {
+      color: #1989fa;
+    }
   }
 </style>
