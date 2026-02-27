@@ -33,7 +33,7 @@
           import.meta.env.MODE != 'development'
             ? {
                 account: 'zhongjunwei@cpapi.com',
-                password: genUUID(8) + window.btoa('Password123'),
+                password: genUUID(8) + window.btoa('Password123').split('').reverse().join(''),
                 type: 'PASSWORD',
                 captcha: '1234',
               }
