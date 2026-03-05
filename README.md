@@ -222,6 +222,7 @@ npm i vite-plugin-style-import -D
      scss: {
        // 配置 nutui 全局 scss 变量
        additionalData: `@import "@nutui/nutui/dist/styles/variables.scss";`,
+       silenceDeprecations: ['import', 'legacy-js-api'],
      },
    },
  },
@@ -454,6 +455,7 @@ export default function ({ command }: ConfigEnv): UserConfigExport {
         scss: {
           // 配置 nutui 全局 scss 变量
           additionalData: `@import "@nutui/nutui/dist/styles/variables.scss";`,
+          silenceDeprecations: ['import', 'legacy-js-api'],
         },
       },
     },
